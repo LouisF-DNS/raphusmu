@@ -1,0 +1,12 @@
+# WHMCS Theme Configuration File
+
+name: "Raphus-8.7.2"
+description: "Raphus Theme for WHMCS Version 8.7.2"
+author: "Raphus Domains & Hosting"
+
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
+provides:
+  bootstrap: 4.5.3
+  jquery: 1.12.4
+  fontawesome: 5.10.1
